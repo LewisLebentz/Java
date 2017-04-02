@@ -2,7 +2,7 @@ class alternateChars
 {
   public static void main(String[] args)
   {
-    String s = "example";
+    String s = "independence";
     StringBuilder sb = new StringBuilder();
 
     for (int index = 0; index < s.length(); index += 2) {
